@@ -1,0 +1,23 @@
+header{
+    width: 100%;
+    height: 400px;
+}
+.firsthalf{
+    width: 45%;
+    height: 300px;
+    float: left;
+}
+.secondhalf{
+    width: 45%;
+    height: 300px;
+    float: left;
+}
+button{
+    background-color:hotpink;
+    border: none;
+    border-radius: 2px;
+}
+img{
+    height:100%;
+    width:95%;
+}
